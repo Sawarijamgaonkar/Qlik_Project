@@ -9,6 +9,9 @@ The project aims to utilize Qlik's data analytics platform to analyze road safet
  - [Smart Internz](https://skillwallet.smartinternz.com/student/profile)
  - [Qlik Cloud](https://www.qlik.com/us/products/qlik-cloud)
  - [Qlik Learning](https://learning.qlik.com/)
+   
+In this whole project I have got to learn a lot, have not only cleared concepts but also this has increased my speed in generating analysis and insights from data. It is now easier to make visualizations of data and make dashboards out of it. I think this will be a key achievement towards developing a skill for being an alayst in future. Thank you @Qlik for giving me the opportunity to learn. This is one of the dashboards attached here.
+
 
 
 ## Badges
